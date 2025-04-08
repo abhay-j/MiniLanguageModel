@@ -7,4 +7,6 @@
 
 ### Things that I have implemented so far:
 
-- A basic Tokenizer, the vocabulary for tokenization is created using 'The Prophet' by Kahlil Gibran.
+- A basic [Tokenizer](https://github.com/abhay-j/MiniLanguageModel/blob/main/SimpleTokenizer.ipynb), the vocabulary for tokenization is created using 'The Prophet' by Kahlil Gibran.
+- Learnt how to tokenize the input text using [Byte Pair Encoding](https://github.com/abhay-j/MiniLanguageModel/blob/main/BytePairEncoding.ipynb) algorithm from TikToken
+- Learnt what vector embeddings and positional embeddings are and implemented a simple [data pre-processing](https://github.com/abhay-j/MiniLanguageModel/blob/main/DataPreProcessingV1.ipynb) pipeline to create input embeddings for the llm.
