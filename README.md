@@ -10,3 +10,4 @@
 - A basic [Tokenizer](https://github.com/abhay-j/MiniLanguageModel/blob/main/SimpleTokenizer.ipynb), the vocabulary for tokenization is created using 'The Prophet' by Kahlil Gibran.
 - Learnt how to tokenize the input text using [Byte Pair Encoding](https://github.com/abhay-j/MiniLanguageModel/blob/main/BytePairEncoding.ipynb) algorithm from TikToken
 - Learnt what vector embeddings and positional embeddings are and implemented a simple [data pre-processing](https://github.com/abhay-j/MiniLanguageModel/blob/main/DataPreProcessingV1.ipynb) pipeline to create input embeddings for the llm.
+- Implemented a simplified version of [attention](https://github.com/abhay-j/MiniLanguageModel/tree/main) mechanism with out trainable weights
